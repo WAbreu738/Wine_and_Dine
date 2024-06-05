@@ -1,7 +1,7 @@
 # Wine & Dine Web Application
 Welcome to the Wine & Dine web application. This project is aimed at providing users with a platform to discover new recipe ideas with wine pairing suggestions. The application works through offering generated recommendations and recipes based off of user input data containing ingredients and an option to select a wine or cocktail.
 
-https://wabreu738.github.io/recipe-app-group-project/
+[Deployed Link](https://wabreu738.github.io/Wine_and_Dine/)
 
 # Project Structure
 - assets/:
